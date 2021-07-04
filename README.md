@@ -29,9 +29,9 @@ Skills: REACT / JS / HTML / CSS
 <code><img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&count_private=true)  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="abhisheknaiidu" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKANGIJAFARI)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKANGIJAFARI)  
 
