@@ -31,7 +31,6 @@ Skills: REACT / JS / HTML / CSS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKANGIJAFARI)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKANGIJAFARI)  
