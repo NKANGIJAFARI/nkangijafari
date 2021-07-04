@@ -31,7 +31,7 @@ Skills: REACT / JS / HTML / CSS
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="abhisheknaiidu" />
  
-<p align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKANGIJAFARI)] />
+<p align="right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKANGIJAFARI)](https://github.com/anuraghazra/github-readme-stats)/>
  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKANGIJAFARI)  
