@@ -11,7 +11,8 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: nkangi.com 
 
 
-**My online presence** 
+**My online presence:** 
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NKANGIJAFARI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nkangijafari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nkangijafari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nkangi.com)  
 
 **My languages and tools:**  
