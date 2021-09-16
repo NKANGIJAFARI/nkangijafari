@@ -2,7 +2,7 @@
 ### Hi there 👋, Am 
 ![3 years experience as a freelancer](https://github.com/NKANGIJAFARI/nkangijafari/blob/master/github%20jafari%20logo.jpg)
 #### JavaScript enthusiast... love building web apps that impacts lives
-![3 years experience as a freelancer](https://github.com/NKANGIJAFARI/nkangijafari/blob/master/github%20jafari%20logo.jpg)
+
 
 Am a freelance full stack web developer with 3years of experience developing websites and web apps using Javascript alongside its frameworks and libraries like React.Js
 
