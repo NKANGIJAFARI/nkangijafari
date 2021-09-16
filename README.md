@@ -8,7 +8,7 @@
 
 Skills: REACT / JS / HTML / CSS 
 
-- 🔭 I’m currently working on zenstyles.herokuapp.com 
+- 🔭 I’m currently working on wallque.co.in
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: nkangi.com 
 
