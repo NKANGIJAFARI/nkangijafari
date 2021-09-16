@@ -4,7 +4,7 @@
 #### JavaScript enthusiast... love building web apps that impacts lives
 
 
-Am a freelance full stack web developer with 3years of experience developing websites and web apps using Javascript alongside its frameworks and libraries like React.Js
+
 
 Skills: REACT / JS / HTML / CSS 
 
