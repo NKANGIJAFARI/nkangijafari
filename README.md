@@ -12,14 +12,13 @@
     - I love coding in the dark, am not a bat though 😅
     - Talking to myself is a hobby and kids are my best friends 🐼
     
-📝What am upto!
+📝What am upto:
 - 🔭 I’m currently working on https://wallque.co.in
 - 🌱 I’m currently learning Python and AWS
 - 📫 How to reach me: nkangi.com 
 
 
 **My online presence:** 
-
 <!-- Online presence -->
  <p align="left">Wanna Know me More?</p>
 
@@ -55,7 +54,7 @@
 <img height="30"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="nkangijafari"  width="48%" align="left"/>      
+!<img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="nkangijafari"  width="48%" align="left"/>      
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NKANGIJAFARI&theme=gotham" width="48%" align="right"  >
  
  
