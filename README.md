@@ -7,7 +7,7 @@
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web Development 
 - 📝 Writing Words , Writing Code
-- 🎯 Goal : To be MERN Developer 
+- 🎯 Goal : To inspire those that seemed unworthy to reach true potentials through technology
 - 💌 Fun Facts : 
     - I love coding in the dark 😅
     - Talking to myself loudly 🐼
