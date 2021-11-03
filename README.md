@@ -57,7 +57,7 @@
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="nkangijafari"  width="48%"/>
             
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=NKANGIJAFARI&theme=gotham" width="48%" ></div>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=NKANGIJAFARI&theme=gotham" width="48%" align="right"  ></div>
  
  
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKANGIJAFARI)   -->
