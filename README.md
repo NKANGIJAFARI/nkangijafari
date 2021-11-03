@@ -3,9 +3,9 @@
 ![3 years experience as a freelancer](https://github.com/NKANGIJAFARI/nkangijafari/blob/master/github%20jafari%20logo.jpg)
 #### JavaScript enthusiast... love building web apps that impacts lives
  <!-- Online presence -->
- <p align="center">Wanna Know me More?</p>
+ <p align="left">Wanna Know me More?</p>
 
-<p align="center">
+<p align="left">
  
 <a href="https://twitter.com/TidbitsJS">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
