@@ -39,6 +39,9 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="nkangijafari" />
+            
+<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKANGIJAFARI)](https://github.com/anuraghazra/github-readme-stats) -->
  
