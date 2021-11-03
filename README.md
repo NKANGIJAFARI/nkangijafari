@@ -8,7 +8,7 @@
 - 👩‍💻 Working on Web Development 
 - 📝 Writing Words , Writing Code
 - 🎯 Goal : To inspire those that seemed unworthy to 
--            reach their true potentials through technology
+            reach their true potentials through technology
 - 💌 Fun Facts : 
     - I love coding in the dark, am not a bat though 😅
     - Talking to myself is a hobby and kids are my best friends 🐼
