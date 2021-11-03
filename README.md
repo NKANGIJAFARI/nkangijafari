@@ -40,7 +40,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="nkangijafari" />
             
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=NKANGIJAFARI&theme=react" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=NKANGIJAFARI&theme=gotham" width="48%" >
  
  
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKANGIJAFARI)   -->
