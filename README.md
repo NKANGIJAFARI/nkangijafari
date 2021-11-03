@@ -2,7 +2,25 @@
 ### Hi there 👋, Am 👇👇👇
 ![3 years experience as a freelancer](https://github.com/NKANGIJAFARI/nkangijafari/blob/master/github%20jafari%20logo.jpg)
 #### JavaScript enthusiast... love building web apps that impacts lives
- <!-- Online presence -->
+ 
+- 🤓 Self taught Developer 
+- 👩‍💻 Working on Web Development 
+- 📝 Writing Words , Writing Code
+- 🎯 Goal : To inspire those that seemed unworthy to 
+            reach their true potentials through technology
+- 💌 Fun Facts : 
+    - I love coding in the dark, am not a bat though 😅
+    - Talking to myself is a hobby and kids are my best friends 🐼
+    
+📝What am upto!
+- 🔭 I’m currently working on https://wallque.co.in
+- 🌱 I’m currently learning Python and AWS
+- 📫 How to reach me: nkangi.com 
+
+
+**My online presence:** 
+
+<!-- Online presence -->
  <p align="left">Wanna Know me More?</p>
 
 <p align="left">
@@ -22,26 +40,6 @@
  ![Profile views](https://gpvc.arturio.dev/NKANGIJAFARI)  
 
 </p>
-
-
-
-
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web Development 
-- 📝 Writing Words , Writing Code
-- 🎯 Goal : To inspire those that seemed unworthy to 
-            reach their true potentials through technology
-- 💌 Fun Facts : 
-    - I love coding in the dark, am not a bat though 😅
-    - Talking to myself is a hobby and kids are my best friends 🐼
-    
-📝What am upto!
-- 🔭 I’m currently working on https://wallque.co.in
-- 🌱 I’m currently learning Python and AWS
-- 📫 How to reach me: nkangi.com 
-
-
-**My online presence:** 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NKANGIJAFARI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nkangijafari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nkangijafari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nkangi.com)  
 
