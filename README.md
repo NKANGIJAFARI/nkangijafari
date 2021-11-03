@@ -40,12 +40,10 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="nkangijafari" />
             
-<img  src="https://github-readme-stats.vercel.app/api?username=TidbitsJS&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKANGIJAFARI)](https://github.com/anuraghazra/github-readme-stats) -->
  
-
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKANGIJAFARI)   -->
  
  <!-- Online presence -->
