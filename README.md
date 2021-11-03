@@ -40,7 +40,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NKANGIJAFARI&show_icons=true&theme=gotham&count_private=true" alt="nkangijafari" />
             
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=TidbitsJS&theme=react" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=NKANGIJAFARI&theme=react" width="48%" >
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NKANGIJAFARI)](https://github.com/anuraghazra/github-readme-stats) -->
  
