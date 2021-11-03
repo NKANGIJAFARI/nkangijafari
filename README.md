@@ -4,12 +4,17 @@
 #### JavaScript enthusiast... love building web apps that impacts lives
 
 
-
-
-Skills: REACT / JS / HTML / CSS 
-
-- 🔭 I’m currently working on wallque.co.in
-- 🌱 I’m currently learning Python 
+- 🤓 Self taught Developer 
+- 👩‍💻 Working on Web Development 
+- 📝 Writing Words , Writing Code
+- 🎯 Goal : To be MERN Developer 
+- 💌 Fun Facts : 
+    - I love coding in the dark 😅
+    - Talking to myself loudly 🐼
+    - 
+What am upto!
+- 🔭 I’m currently working on https://wallque.co.in
+- 🌱 I’m currently learning Python and AWS
 - 📫 How to reach me: nkangi.com 
 
 
@@ -38,8 +43,6 @@ Skills: REACT / JS / HTML / CSS
  
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NKANGIJAFARI)   -->
-
-![Profile views](https://gpvc.arturio.dev/NKANGIJAFARI)  
  
  <!-- Online presence -->
  <p align="center">Wanna Know me More?</p>
@@ -59,3 +62,5 @@ Skills: REACT / JS / HTML / CSS
 <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
 
 </p>
+
+![Profile views](https://gpvc.arturio.dev/NKANGIJAFARI)  
