@@ -24,17 +24,15 @@
 
 <p align="left">
  
-<a href="https://twitter.com/TidbitsJS">
+<a href="https://twitter.com/nkangijafari">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
-<a href="https://www.instagram.com/tidbits.js">
+<a href="https://www.instagram.com/nkangijafari">
 <img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
 
-<a href="https://www.linkedin.com/in/sujata-gunale-15964b166/">
+<a href="https://www.linkedin.com/in/nkangijafari/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
     
-<a href="https://tidbitsjs.medium.com/">
-<img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
  
  ![Profile views](https://gpvc.arturio.dev/NKANGIJAFARI)  
 
