@@ -18,10 +18,12 @@
     
 <a href="https://tidbitsjs.medium.com/">
 <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>  
+ 
+ ![Profile views](https://gpvc.arturio.dev/NKANGIJAFARI)  
 
 </p>
 
-![Profile views](https://gpvc.arturio.dev/NKANGIJAFARI)  
+
 
 
 - 🤓 Self taught Developer 
