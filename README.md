@@ -1,11 +1,12 @@
 
 ### Hi there 👋, Am 👇👇👇
 ![3 years experience as a freelancer](https://github.com/NKANGIJAFARI/nkangijafari/blob/master/github%20jafari%20logo.jpg)
-#### JavaScript enthusiast... love building web apps that impacts lives
- 
+#### JavaScript enthusiast... love building web and mobile apps that impacts lives.
+
+**A brief about me in tech:** 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Web and app Development 
-- 📝 Writing Words , Writing Code, google things.
+- 👩‍💻 Working on Web and app Development.
+- 📝 Writing Words, Writing Code, Google things.
 - 🎯 Goal to code: To inspire those that feel unworthy to 
             reach their true potentials through technology.
 - 💌 Fun Facts : 
