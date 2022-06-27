@@ -14,7 +14,7 @@
     - Talking to myself is a hobby and kids are my best friends.
     
 📝What am upto:
-- 🔭 I’m currently working on https://wallque.co.in and it's dashboard
+- 🔭 I’m currently working on HealthExpress Home Health Care and it's dashboard
 - 🌱 I’m currently learning Python and AWS 
 - 📫 How to reach me:  https://nkangi.com 
 
