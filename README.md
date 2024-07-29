@@ -1,22 +1,22 @@
 
 ### Hi there 👋, Am 👇👇👇
 ![3 years experience as a freelancer](https://github.com/NKANGIJAFARI/nkangijafari/blob/master/github%20jafari%20logo.jpg)
-#### JavaScript enthusiast... love building web and mobile apps that impacts lives.
+#### JavaScript enthusiast... love building web and mobile apps that impact lives.
 
 **A brief about me in tech:** 
-- 🤓 Self taught Developer 
-- 👩‍💻 Working on Web and app Development.
-- 📝 Writing Words, Writing Code, Google things.
+- 🤓 Self-taught Developer and co-founder of solvingpath.com
+- 👩‍💻 Working on Web and app Development alongside custom Shopify
+- 📝 Writing Words, Writing Code, Google things, more importantly prompting chatGPT
 - 🎯 Goal to code: To inspire those that feel unworthy to 
-            reach their true potentials through technology.
+            reach their true potential through technology.
 - 💌 Fun Facts : 
-    - I love coding in the dark, am not a bat though 😅
+    - I love coding in the dark, but I am not a bat though 😅
     - Talking to myself is a hobby and kids are my best friends.
     
-📝What am upto:
-- 🔭 I’m currently working on HealthExpress Home Health Care and it's dashboard
-- 🌱 I’m currently learning Python and AWS 
-- 📫 How to reach me:  https://nkangi.com 
+📝What am up to:
+- 🔭 I’m currently working on a garage system as I lead a team on 3more projects.
+- 🌱 I’m currently exploring AI and its capabilities.
+- 📫 How to reach me:  nkangijafari on on lots of socials. and nkangijafari@gmail.com (why not business email? google servers are more trusted).
 
 
 **My online presence:** 
