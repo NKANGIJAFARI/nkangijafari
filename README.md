@@ -16,7 +16,8 @@
 📝What am up to:
 - 🔭 I’m currently working on a garage system as I lead a team on 3more projects.
 - 🌱 I’m currently exploring AI and its capabilities.
-- 📫 How to reach me:  nkangijafari on on lots of socials. and nkangijafari@gmail.com (why not business email? google servers are more trusted).
+- 📫 How to reach me:  nkangijafari on on lots of socials. and nkangijafari@gmail.com
+  (why not business email? google servers are more trusted).
 
 
 **My online presence:** 
